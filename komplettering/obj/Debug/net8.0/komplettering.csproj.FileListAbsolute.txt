@@ -1,0 +1,15 @@
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.AssemblyInfoInputs.cache
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.AssemblyInfo.cs
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.csproj.CoreCompileInputs.cache
+C:\Users\ansha\source\repos\komplettering\komplettering\bin\Debug\net8.0\komplettering.exe
+C:\Users\ansha\source\repos\komplettering\komplettering\bin\Debug\net8.0\komplettering.deps.json
+C:\Users\ansha\source\repos\komplettering\komplettering\bin\Debug\net8.0\komplettering.runtimeconfig.json
+C:\Users\ansha\source\repos\komplettering\komplettering\bin\Debug\net8.0\komplettering.dll
+C:\Users\ansha\source\repos\komplettering\komplettering\bin\Debug\net8.0\komplettering.pdb
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.dll
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\refint\komplettering.dll
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.pdb
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.genruntimeconfig.cache
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\ref\komplettering.dll
+C:\Users\ansha\source\repos\komplettering\komplettering\obj\Debug\net8.0\komplettering.csproj.AssemblyReference.cache
